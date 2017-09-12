@@ -19,6 +19,9 @@ Class Labels: 5 (business, entertainment, politics, sport, tech)
 
 * model/model.py: preprocessing, tf-idf feature extraction and model buildind and evaluation stuff
 
+* model/test.ipynb: jupyter notebook 
+
+
 # Method
 
 Divided the feature extracted dataset into two parts train and test set. Train set contains 1780 examples and Test set contains 445 examples. 
